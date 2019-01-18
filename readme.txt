@@ -1,4 +1,4 @@
-git is a balalala version control sysytem
-git is free software  append GPL
-hei 0906
-suibian xiexei
+git is just  version control
+git add
+git commit
+1
